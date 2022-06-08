@@ -1,0 +1,18 @@
+
+
+@media (max-width: 767px) {
+   
+    .copyright {
+        float: none;
+        padding-top: 0;
+    }
+    
+    .footer-icons {
+        float: none;    
+    }
+    .footer-copyright-inside {
+        padding: 5px;
+    }
+}
+
+
